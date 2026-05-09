@@ -1,22 +1,34 @@
-## Hi, welcome!
-<div align="center">
-  <a href="https://github.com/VittorGuih">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VittorGuih&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" style="width: 420px;"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vittor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vittor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Vittor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vittor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vittor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/vittor_guih" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:vittytuuguilherme@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vittorguih/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+## Hi there! 👋 I'm Vittor Guilherme
+**Senior Software Engineer | AI Integration Specialist (RAG, MCP, Autonomous Agents)**
 
+I focus on Fullstack architecture and the development of scalable solutions driven by Artificial Intelligence. I provide technical leadership for complex applications, orchestrating everything from scalable React/TypeScript interfaces to advanced AI pipelines with Python and FastAPI.
+
+### 🚀 Tech Stack & Tools
+
+<div style="display: flex; gap: 15px; flex-wrap: wrap; margin-top: 10px; margin-bottom: 20px;">
+  <img align="center" alt="TypeScript" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="React" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="Next.js" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="Node.js" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Python" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="FastAPI" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+</div>
+
+### 🧠 Current Focus
+*   **Agentic Applications & LLMs:** Development of autonomous agents and robust integrations.
+*   **Context & RAG:** Retrieval-Augmented Generation, Model Context Protocol (MCP), Vector Databases.
+*   **Architecture:** Scalability, Liferay DXP, and fluid transition between ecosystems (Node ↔ Python).
+
+### 📬 How to reach me
+
+<div style="margin-top: 15px;"> 
+  <a href="https://www.linkedin.com/in/vittorguih/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a> 
+  <a href="mailto:vittytuuguilherme@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://instagram.com/vittor_guih" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </div>

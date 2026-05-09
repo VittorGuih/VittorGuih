@@ -1,7 +1,7 @@
 ## Hi there! 👋 I'm Vittor Guilherme
 **Senior Software Engineer | AI Integration Specialist (RAG, MCP, Autonomous Agents)**
 
-I focus on Fullstack architecture and the development of scalable solutions driven by Artificial Intelligence. I provide technical leadership for complex applications, orchestrating everything from scalable React/TypeScript interfaces to advanced AI pipelines with Python and FastAPI.
+My efforts are set to Fullstack architecture and the development of scalable solutions driven by Artificial Intelligence. I provide technical leadership for complex applications, orchestrating everything from scalable React/TypeScript interfaces to advanced AI pipelines with Python and FastAPI.
 
 ### 🚀 Tech Stack & Tools
 
